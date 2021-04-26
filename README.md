@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<iframe src="https://jamescommons.github.io/website" width="100%"></iframe>
+Email me at jcommons2002@gmail.com
